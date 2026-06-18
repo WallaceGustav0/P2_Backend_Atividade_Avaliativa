@@ -190,4 +190,3 @@ Este projeto foi desenvolvido seguindo 100% das especificações:
 *   **Status Codes:** Uso correto de 201 (Created), 204 (No Content), 404 (Not Found) e 422 (Unprocessable Entity).
 
 ---
-**Desenvolvido por Manus - Pronto para Entrega.**

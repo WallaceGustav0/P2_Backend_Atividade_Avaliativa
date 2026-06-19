@@ -129,7 +129,8 @@ TOTAL                 201     18    91%
 
 ======================== 34 passed, 56 warnings in 1.09s =======================
 ```
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/67963a62-6899-476d-9862-f67ae1f5b4d9" />
+<img width="1253" height="357" alt="captura teste" src="https://github.com/user-attachments/assets/f6caa6d4-be09-4ceb-971e-ae1e48546a6e" />
+
 
 ---
 

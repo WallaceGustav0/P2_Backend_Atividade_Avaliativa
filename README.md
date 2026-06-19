@@ -92,7 +92,7 @@ A suíte de testes foi desenhada para garantir a integridade de cada funcionalid
 Para rodar os testes com detalhes de cada caso e relatório de cobertura:
 
 ```bash
-docker compose up -d db_test && pytest -v --cov=app --cov-report=term-missing
+docker compose up -d db_test; pytest -v --cov=app --cov-report=term-missing
 ```
 
 ### 📊 Saída Esperada do Pytest:

@@ -95,10 +95,6 @@ Para rodar os testes com detalhes de cada caso e relatório de cobertura:
 docker compose up -d db_test; pytest -v --cov=app --cov-report=term-missing
 ```
 
-'''
-<img width="1600" height="900" alt="captura teste" src="https://github.com/user-attachments/assets/e28f3410-f44c-4fb8-8476-2b13d3289503" />
-
-'''
 ### 📊 Saída Esperada do Pytest:
 Abaixo está a representação da execução bem-sucedida dos 34 testes:
 
@@ -133,6 +129,7 @@ TOTAL                 201     18    91%
 
 ======================== 34 passed, 56 warnings in 1.09s =======================
 ```
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/67963a62-6899-476d-9862-f67ae1f5b4d9" />
 
 ---
 
